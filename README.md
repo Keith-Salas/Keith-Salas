@@ -1,6 +1,6 @@
 # Keith
 
-**Aspiring Data Scientist** Data Science, Machine Learning, AI & Deep Learning
+**Aspiring Data Scientist** - Data Science, Machine Learning, AI & Deep Learning
 
 ---
 

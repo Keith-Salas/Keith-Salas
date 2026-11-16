@@ -29,6 +29,3 @@ Open to collaboration, technical discussion, and professional opportunities in D
 
 ---
 
-## GitHub Activity
-
-![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithmila&show_icons=true&theme=github_dark)
